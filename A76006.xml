@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord. Gen. Monck, to Major General Overton: together with Maior Gen. Overtons answer thereunto.</title>
+            <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76006</idno>
+            <idno type="STC">Wing A853</idno>
+            <idno type="STC">Thomason E1013_21</idno>
+            <idno type="STC">ESTC R208115</idno>
+            <idno type="EEBO-CITATION">99867106</idno>
+            <idno type="PROQUEST">99867106</idno>
+            <idno type="VID">119396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119396)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord. Gen. Monck, to Major General Overton: together with Maior Gen. Overtons answer thereunto.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+                  <author>Overton, Robert, ca. 1609-ca. 1668.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by James Cottrel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 27. 1659"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119396:1"/>
+            <pb facs="tcp:119396:1" rendition="simple:additions"/>
+            <p>A LETTER FROM THE Lord Gen. Monck, TO Major General <hi>OVERTON:</hi> Together with Maior Gen. Overtons Anſwer thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>James Cottrel.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119396:2"/>
+            <pb n="1" facs="tcp:119396:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEing through the good pro<g ref="char:EOLhyphen"/>vidence of God, now at <hi>York</hi> taking care for the Affairs of the Parliament in theſe parts; and the condition of the Gariſon of <hi>Hull</hi> being ſomewhat doubtfully reſpreſen<g ref="char:EOLhyphen"/>ted to me; ſeeing I can yet meet with no perſon that can aſſure me, that you have yet declared for the Parliament now ſitting at <hi>Westmin<g ref="char:EOLhyphen"/>ſter:</hi> I have thought it meet to ſend this Meſſenger, that ſo I might re<g ref="char:EOLhyphen"/>ceive ſatisfaction in that point, and ſo all grounds of ſuſpition and jealouſie
+<pb n="2" facs="tcp:119396:3"/>
+might be prevented; which will not be avoided otherwiſe then by a full and free Declaration of your obedience to the Parliament in their preſent con<g ref="char:EOLhyphen"/>ſtitution: in expectation of a ſatisfa<g ref="char:EOLhyphen"/>ctory anſwer in this particular, <hi>I</hi> remain</p>
+            <closer>
+               <signed>Your very loving Friend and Servant, <hi>George Monck.</hi>
+               </signed>
+               <dateline>York, <date>12 Jan. 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:119396:3"/>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>YOurs of the 12 Currant from <hi>York</hi> I have received, by the hands of my old friend Adju<g ref="char:EOLhyphen"/>tant Gen. <hi>Smith,</hi> and do per<g ref="char:EOLhyphen"/>ceive that Report renders <hi>Hull</hi> as doubtful to you, as it did your deſign dangerous to us and others: but I am very glad to hear that you adhere to this Parliament in their pre<g ref="char:EOLhyphen"/>ſent conſtitution, againſt the re-admiſſion of the ſecluded Members, a free Parliament or ſingle Perſon; one of which hath conti<g ref="char:EOLhyphen"/>nually been charged upon you, as the com<g ref="char:EOLhyphen"/>mon cry of your Army. For my own part, however any airy rumor may have repreſen<g ref="char:EOLhyphen"/>ted me, yet both my Actions and Words before and ſince the Parliaments interrupti<g ref="char:EOLhyphen"/>on, have ſo ſufficiently declared my adhe<g ref="char:EOLhyphen"/>rence to them in oppoſition to that invaſion made upon them; that for me to bring up the Rear of verbal Teſtimonies by an <hi>ex poſt facto</hi> Declaration, when I have not concurred
+<pb n="4" facs="tcp:119396:4"/>
+with or countenanced any thing, that hath in the leaſt derogated from your Authority or the Truſt repoſed in me, is very much below me, who have ever oppoſed Faithful<g ref="char:EOLhyphen"/>neſs to Flattery, and endeavoured to be found in practiſe rather then profeſſion. But I ſuppoſe the Parliament have by this time received ſatisfaction from what I have ſignified of my continued adherence to them; and beſides, I have ſent up my Major perſonally to repreſent to them the ſame, and how difficult it was for us, to preſerve this place by any other procedure then what was our practice here: wherein upon the one hand I was very careful to decline any thing which owned the Army in their force, ſo on the other hand (their intereſt here overleaping me) I was neceſſitated to walk ſo warily (by ſome circumſtantial condeſcentions to them) that they might not have opportunity to out me; which was de<g ref="char:EOLhyphen"/>ſigned, by an intention to ſecure both me and my Major. I have incloſed to you a Copy of that Letter I ſent to the General Council of Officers in oppoſition to their
+<pb n="5" facs="tcp:119396:4"/>
+Addreſs for Gen. Officers: which with my declining concurring with any of their pro<g ref="char:EOLhyphen"/>ceeds, ſubſcribing any of their Papers, refu<g ref="char:EOLhyphen"/>ſing their Commiſſions, withſtanding their Commands, forcing out two Companies (after my own came from <hi>Scotland,</hi> com<g ref="char:EOLhyphen"/>manded by their Creatures) turning back one of my Lord <hi>Lamberts</hi> Troops, which he ſent for the ſecurity of this place; and calling in Major <hi>Acklams,</hi> whom I could better confide in; refuſing to give my ap<g ref="char:EOLhyphen"/>probation to their Writs ſent down for ele<g ref="char:EOLhyphen"/>cting Members, are my witneſſes that my works have not denied, but all along de<g ref="char:EOLhyphen"/>clared for the Parliament, in whoſe Cauſe I have been and am, as deeply concern'd as o<g ref="char:EOLhyphen"/>thers, both by active and paſſive obedience; and ſhall not ceaſe further to teſtifie my faithfulneſs to them therein, according to the tenour of our Engagements, re<g ref="char:EOLhyphen"/>maining</p>
+            <closer>
+               <signed>Right Honourable, Your aſſured and humble Servant, <hi>Rob. Overton.</hi>
+               </signed>
+               <dateline>Hull, <date>Jan. 13. 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
